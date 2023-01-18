@@ -37,7 +37,7 @@ margin-left: 876px;
 }
 .btn{
     background-color: #F15B22;;
-    border-radius: 5px;
+    border-radius: 10px;
     padding: 20px 15px;
     width: 160px;
 height: 64px;
@@ -134,22 +134,96 @@ color: #737272;
     background-image: url('../images/watch.png');
     height: 300px;
     background-repeat: no-repeat;
-    margin-left: 430px;
+    background-position: cover;
+    margin-left: 230px;
+    margin-right: 230px;
+
+}
+.blog-title{
+    margin: 0 200px;
 }
 .pages4{
-    margin-top: 59px;
-    margin-left: 64px;
-    margin-right: 617px;
+   padding-top: 59px;
+   padding-left: 64px;
+   padding-right: 617px;
 }
-    
-
-.blog4{
-    
+.pages4-title{
     font-weight: 700;
 font-size: 40px;
 color: #FFFFFF;
+margin-right: 200px;
+margin-bottom: 24px;
+
 }
 .blog5{
-    width: 88px;
-height: 23px;
+    background-color: #FFFFFF;
+    border-radius: 10px;
+    color: #F15B22;
+    font-weight: 600;
+font-size: 20px;
+padding: 20px 36px;
+}
+.section4{
+    background-color: #151414;
+    height: 572px;
+    width: 1600px;
+    margin-top: 130px;
+    margin-left: 100px;
+}
+.section4-title{
+    color: #FFFFFF;
+    margin-top: 130px;
+    margin-left: 230px;
+    margin-right: 331px;
+}
+.se{
+    color: #FFFFFF;
+    margin-top: 130px;
+    margin-right: 229px;
+    
+ 
+}
+.jerry{
+    display: flex;
+}
+.kamil{
+    font-weight: 700;
+font-size: 45px;
+color: #F8F8F8;
+}
+.joy{
+    margin-top: 16px;
+    font-weight: 400;
+font-size: 16px;
+color: #FFFFFF;
+}
+.kamil2{
+    font-weight: 600;
+font-size: 25px;
+margin-bottom: 16px;
+color: #FFFFFF;
+
+}
+.joy2{
+    padding-top: 21px;
+    padding-left: 21px;
+    padding-bottom: 22px;
+    padding-right: 158px;
+    font-weight: 400;
+font-size: 18px;
+margin-bottom: 16px;
+
+}
+.joy3{
+    font-weight: 600;
+font-size: 20px;
+color: #F15B22;
+padding: 20px 36px;
+}
+.robin2{
+    margin-top: 32px;
+    margin-left: 18px;
+}
+.robin1{
+    margin-top: 32px;
 }
